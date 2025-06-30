@@ -1,0 +1,3 @@
+Jellyfish v2.3.0
+GenomeScope2 (R package)
+R v4.2.1
